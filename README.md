@@ -1,5 +1,5 @@
 # Desafio-Capgemini
-3 desafios resolvidos em python
+Desafios resolvidos em python
 
 ## Como rodar a aplicação
 
